@@ -2,11 +2,8 @@
 
 ul>li>a#Menu_item {text-align: center;
 	background-color: #d1f0ed;}
-
-h2#sec-title{font-size: 180%;
-	font-weight: bold;}
-
-#single-element{margin: 10px 10px 10px;
-	height: 1000px;
+.single-element{margin: 10px 10px 10px;
+	height: 700px;
+	padding: 10px;
 	background-color:  #d1f0ed;
 	overflow: hidden;}
